@@ -26,3 +26,16 @@ Overview:
 -A bar chart is generated using Matplotlib to represent the suggested universities.
 -Although the chart uses placeholder values for demonstration, it provides a visual summary of the university options.
 
+
+*Output* : What are you interested in (Science, Arts, Commerce)? arts
+some course suggestions for you:
+Graphic Design
+Fine Arts
+Music
+etc
+Here are some universities:
+Atharva College of Engineering
+Bhagwan Parshuram Institute of Technology
+University of Petroleum and Energy Studies
+Ashoka University
+Indian Institute of Information Technology Sri City
